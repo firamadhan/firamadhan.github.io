@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Halo, saya Fakhri"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Fakhri Ramadhan"
 description              : &description "Researcher"
