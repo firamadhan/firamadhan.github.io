@@ -22,6 +22,7 @@ Skills
   * scikit-learn
   * matplotlib, seaborn
 * R (basics)
+* Jupyter Notebook
 * Figma
 
 Research experience
