@@ -27,14 +27,13 @@ Skills
 Research experience
 ======
 * 2020: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Data analytics approach for origin-destination matrix estimation: Study project with PT Transportasi Jakarta
+  * The perception of public on Gojek's COVID-19 health protocol study: Study project with PT Gojek Indonesia
+  * Business resilience of the land public transportation in Indonesia during COVID-19 study: Study project with The Ministry of Transportation Indonesia
+  * Machine learning application for electric power consumption load prediction: Interdisciplinary research with Engineering Physics, ITB
 
 * 2019: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Agent-based simulation approach for evaluation overbooking reservation mechanism in a container terminal 
 
 Industry experience
 ======
@@ -52,3 +51,4 @@ Achievements and awards
 ======
 * Digital Talent Scholarship 2022 by KOMINFO Republic of Indonesia, UI/UX Design Mastery Bootcamp
 * SBM ITB Scholarship 2018, Merit-based tuition fee scholarship
+* In charge of managing 4 research grants
