@@ -40,7 +40,7 @@ Industry experience
 ======
 * 2021-present: Business Research Analyst
   * The KPI Institute (Remote)
-  * Duties included: Applied business research, product design, UI/UX
+  * Duties included: Applied business research for consulting projects and  training courses, SaaS product design
   
 Publications
 ======
