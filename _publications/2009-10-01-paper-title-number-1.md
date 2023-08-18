@@ -1,7 +1,7 @@
 ---
 title: "Impact of overbooking reservation mechanism on container terminal’s operational performance and greenhouse gas emissions"
 collection: publications
-permalink: /publication/pub1
+permalink: /publications/pub1
 excerpt: 'This research scrutinizes the detailed process mapping of the existing reservation mechanism, proposes an ORM, and conducts agent-based simulations to evaluate the ORM's performance against the regular and go-show reservation mechanisms at different levels of no-shows and working occupancies.'
 date: 2021-06-01
 venue: 'The Asian Journal of Shipping and Logistics'
