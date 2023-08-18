@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Management, School of Business and Management Institut Teknologi Bandung, 2020
-*  B.E. in Accounting, Faculty of Economics and Business Universitas Padjadjaran, 2016
+* M.Sc. in Management, School of Business and Management, Institut Teknologi Bandung, 2018-2020
+* B.E. in Accounting, Faculty of Economics and Business, Universitas Padjadjaran, 2012-2016
 
 Skills
 ======
@@ -26,27 +26,21 @@ Skills
 
 Research experience
 ======
-* Summer 2015: Research Assistant
+* 2020: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* 2019: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
 Industry experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-present: Business Research Analyst
+  * The KPI Institute (Remote)
+  * Duties included: Applied business research, product design, UI/UX
   
 Publications
 ======
@@ -56,4 +50,5 @@ Publications
   
 Achievements and awards
 ======
-* Currently signed in to 43 different slack teams
+* Digital Talent Scholarship 2022 by KOMINFO Republic of Indonesia, UI/UX Design Mastery Bootcamp
+* SBM ITB Scholarship 2018, Merit-based tuition fee scholarship
