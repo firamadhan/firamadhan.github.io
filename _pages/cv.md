@@ -50,6 +50,6 @@ Publications
   
 Achievements and awards
 ======
-* Digital Talent Scholarship 2022 by KOMINFO Republic of Indonesia, UI/UX Design Mastery Bootcamp
-* SBM ITB Scholarship 2018, Merit-based tuition fee scholarship
-* In charge of managing 4 research grants' operational and administration, 2019-2020
+* Digital Talent Scholarship 2022 by KOMINFO Republic of Indonesia for UI/UX Design Mastery Bootcamp
+* SBM ITB Scholarship 2018: Merit-based tuition fee scholarship
+* In charge of managing 4 research grants' operational and administration (2019-2020)
