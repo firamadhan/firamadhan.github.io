@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Container Terminal Simulation with Negotiation Truck Appointment System (2020)"
+excerpt: "NetLogo model used in my 2020 study.<br/><img src='/images/netlogo01.png'>"
 collection: portfolio
 ---
 
