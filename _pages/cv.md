@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Management, School of Business and Management, Institut Teknologi Bandung, 2018-2020
-* B.E. (Accounting), Faculty of Economics and Business, Universitas Padjadjaran, 2012-2016
+* B.Ec. (Accounting), Faculty of Economics and Business, Universitas Padjadjaran, 2012-2016
 
 Skills
 ======
@@ -41,7 +41,7 @@ Research experience
 Industry experience
 ======
 * 2021-present: Business Research Analyst
-  * The KPI Institute (Remote): Applied business research for consulting projects and professional training courses, SaaS product design
+  * The KPI Institute (Remote): Applied research for developing courses on generative AI topics, analyst for consulting projects, SaaS product design
   
 Publications
 ======
